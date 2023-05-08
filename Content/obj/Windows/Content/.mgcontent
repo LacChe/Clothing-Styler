@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/X/source/repos/vet/Content/fonts/inventoryFont.spritefont</File>
+    <File>C:/Users/X/source/repos/vet/Content/items/chest.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/items/crops.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/items/flooring.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/items/furniture.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/items/herbs.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/items/upperClothes.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/items/wallPaper.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/buildingInterior0.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/buildingInterior0Passible.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/buildingInteriorDoctor.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/buildingInteriorDoctorPassible.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/buildingInteriorVet.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/buildingInteriorVetOver.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/buildingInteriorVetPassible.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/map0.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/mapBridgeEast.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/mapBridgeEastPassible.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/mapCavePond.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/mapCavePondPassible.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/mapField.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/mapFieldOver.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/mapFieldPassible.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/mapMountainLower.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/mapMountainLower1.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/mapMountainLower1Over.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/mapMountainLowerOver.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/mapMountainLowerPassible.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/mapMountainUpper.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/mapMountainUpper1.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/mapMountainUpperPassible.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/mapRailroad.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/mapRailroad1.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/mapRailroadNE.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/mapRailroadNEPassible.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/mapRailroadPassible.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/mapRailroadSE.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/mapRailroadSE1.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/mapRailroadSEPassible.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/mapTownCenter.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/mapTownCenter1.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/mapTownCenter1Over.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/mapTownCenter2.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/mapTownCenter2Over.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/mapTownCenterOver.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/mapTownCenterPassible.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/passible.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/maps/sandTiles.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/movingObjects/dog0.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/movingObjects/liHe.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/movingObjects/npc0.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/movingObjects/player0.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/movingObjects/zuoQing.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/UI/backPack.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/UI/chestInventory.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/UI/inventory.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/UI/selectionBox.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/UI/statusIcon.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/UI/storeInventory.png</File>
+    <File>C:/Users/X/source/repos/vet/Content/UI/time.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
