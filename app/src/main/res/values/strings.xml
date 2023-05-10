@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">Settlement Game</string>
+
+    <string name="natural">Natural</string>
+    <string name="naturally_produced">Naturally Produced</string>
+    <string name="produced_this">Produced This</string>
+    <string name="unknown">Unknown</string>
+    <string name="quality">Quality</string>
+    <string name="age">Age</string>
+
+    <array name="task_names">
+        <item>Mine Stone</item>
+        <item>Mine Ore</item>
+        <item>Smelt Ore</item>
+    </array>
+
+    <array name="object_menu_tabs">
+        <item>Info</item>
+        <item>Storage</item>
+        <item>Tasks</item>
+        <item>Ownership</item>
+    </array>
+
+    <array name="walkable_menu_tabs">
+        <item>Change</item>
+        <item>Bio</item>
+        <item>Body</item>
+        <item>Social</item>
+    </array>
+
+    <array name="walkable_menu_bio_tabs">
+        <item>Bio/Wants</item>
+        <item>Personality</item>
+        <item>Memory</item>
+    </array>
+
+    <array name="walkable_menu_body_tabs">
+        <item>Items</item>
+        <item>Skills</item>
+        <item>Stats</item>
+    </array>
+
+    <array name="biome_names">
+        <item>Hills</item>
+        <item>Mountains</item>
+        <item>Plains</item>
+        <item>Savanna</item>
+        <item>Desert</item>
+        <item>Island</item>
+        <item>Beach</item>
+        <item>Forest</item>
+        <item>Rainforest</item>
+        <item>Tundra</item>
+    </array>
+
+    <array name="water_level">
+        <item>Too Dry</item>
+        <item>Enough Water</item>
+        <item>Too Wet</item>
+    </array>
+
+    <array name="tile_names">
+        <item>Void</item>
+        <item>Dirt</item>
+        <item>Sand</item>
+        <item>Stone</item>
+        <item>Ore</item>
+        <item>Water</item>
+        <item>Lava</item>
+    </array>
+
+    <array name="tree_names">
+        <item>name1</item>
+        <item>name2</item>
+        <item>name3</item>
+        <item>name4</item>
+    </array>
+
+    <array name="plant_names">
+        <item>name1</item>
+        <item>name2</item>
+        <item>name3</item>
+        <item>name4</item>
+    </array>
+
+    <array name="flooring_names">
+        <item>Void</item>
+        <item>Grass</item>
+        <item>Snow</item>
+        <item>Stone</item>
+        <item>Ore</item>
+        <item>Wood Floor2</item>
+        <item>Wood Floor3</item>
+        <item>Wood Floor4</item>
+        <item>Wood Floor5</item>
+    </array>
+
+    <array name="resource_names">
+        <item>Void</item>
+        <item>Wood</item>
+        <item>Stone</item>
+        <item>Dirt</item>
+        <item>Sand</item>
+        <item>Glass</item>
+        <item>Bar</item>
+        <item>Ore</item>
+        <item>Water</item>
+        <item>Clay</item>
+    </array>
+
+    <array name="wall_names">
+        <item>Stone Wall</item>
+        <item>Ore Wall</item>
+        <item>Wood Wall</item>
+        <item>Metal Wall</item>
+    </array>
+
+    <array name="table_names">
+        <item>Wood Table 1x1</item>
+        <item>Wood Table 2x1</item>
+        <item>Wood Table 2x2</item>
+    </array>
+
+    <array name="station_names">
+        <item>Stone Drill Station</item>
+        <item>Metal Drill Station</item>
+        <item>Smelting Furnace</item>
+    </array>
+
+</resources>
